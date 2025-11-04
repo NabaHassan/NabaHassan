@@ -123,7 +123,7 @@ Practical implementations of deep learning concepts using **TensorFlow** and **P
 
 ## 🌟 Let's Connect!
 
-💼 [LinkedIn] (https://www.linkedin.com/in/naba-hassan-055536249/)
+💼 **Linkedln:**  [Linkedln Profile](https://www.linkedin.com/in/naba-hassan-055536249/)
 📧 **Email:** nabahassan707@email.com  
 🌍 **Portfolio:** [naba-portfolio-4bb5b4.netlify.app](https://naba-portfolio-4bb5b4.netlify.app/)
 
