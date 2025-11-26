@@ -108,19 +108,61 @@ Practical implementations of deep learning concepts using **TensorFlow** and **P
 
 ---
 
-## 🧰 Skills & Tools
+### 📧 Spam Email Detection (Machine Learning)
+A complete NLP + ML solution to classify emails as **Spam** or **Ham** with a simple web interface.
 
-| Category | Technologies |
-|-----------|---------------|
-| 💻 **Languages** | Python, Dart, SQL, HTML, CSS |
-| 🧩 **Frameworks** | Flutter, TensorFlow, PyTorch, LangChain, LangGraph |
-| 🗄️ **Databases** | Firebase, SQLite, Hive |
-| 🧠 **AI/ML Tools** | FAISS, SentenceTransformers, Hugging Face, Ollama |
-| 🌐 **APIs & Integration** | REST, OpenAI API |
-| 🧑‍💻 **Other Skills** | UI/UX Design, Team Collaboration, Git & GitHub |
+🛠 **Tech Stack:** Python, Scikit-Learn, NLTK, Streamlit  
+📊 **Pipeline:**
+- Text cleaning & preprocessing  
+- TF-IDF vectorization  
+- Model comparison: Naive Bayes, Logistic Regression, SVM  
+- Metrics: Accuracy, Precision, Recall, F1 Score  
+- Streamlit UI for real-time predictions
+
+### 🧪 CSV Data Analysis with LangGraph + FAISS
+A smart CSV analysis pipeline capable of semantic search, intelligent data extraction, and natural-language responses.
+
+🛠 **Tech Stack:** LangGraph, FAISS, Python, Mistral-7B  
+📌 **Features:**
+- Automatic CSV validation & preprocessing  
+- Multi-format text representations (key-value, numeric facts, natural descriptions)  
+- FAISS vector index generation  
+- Context retrieval based on similarity search  
+- Local LLM-powered question answering  
+- Error resilience with fallback mechanisms
+
+**Pipeline Nodes:**
+- uploadCsvFile  
+- validateCsvData  
+- buildFaissIndex  
+- generateFaissEmbedding  
+- retrieveRelevantContext  
+- passInfoThroughLlm  
+- formatLlmResponse  
 
 ---
 
+### 💬 Dental Medicine Chatbot — *Denti*
+A fully offline, AI-powered **dental medication assistant** combining structured SQL data with natural-language responses.
+
+🧠 **Tech Stack:** Python, LangChain, SQLite, GPT4All, LLaMA 3  
+🔍 **Core Features:**
+- Intent detection (composition, use, side effects, manufacturer, etc.)
+- SQL query generation from natural language  
+- Retrieval-Augmented Generation (RAG)  
+- Error-handling, caching, and safe query execution  
+- Local LLM inference (Meta-Llama-3-8B-Instruct)
+
+---
+
+| Category | Technologies |
+|----------|-------------|
+| 💻 **Languages** | Python, SQL, HTML, CSS |
+| 🔍 **AI/ML** | LangChain, LangGraph, FAISS, Hugging Face, SentenceTransformers |
+| 🧠 **Frameworks** | PyTorch, TensorFlow |
+| 🗄️ **Databases** | SQLite, Firebase (not using for apps currently) |
+| 🌐 **APIs** | REST, OpenAI API |
+| 🛠 **Tools** | Git, GitHub, Streamlit, Ollama, GPT4All |
 ## 🌟 Let's Connect!
 
 💼 **Linkedln:**  [Linkedln Profile](https://www.linkedin.com/in/naba-hassan-055536249/)
