@@ -5,223 +5,102 @@ My work spans **Flutter app development**, **web technologies**, and **artificia
 
 ---
 
-## 📱 App Development Projects
+## 📱 Mobile & App Development
 
-### ✅ To-Do List Application
-A simple and efficient mobile app for managing daily tasks.  
-📱 **Platform:** Flutter (Mobile)  
-💾 **Storage:** Local only  
-🗂️ **Features:**  
-- Add tasks with title, description, due date, and priority  
-- Sort tasks by due date and priority  
-
-> Built with **Dart & Flutter** to help users stay productive offline.
-
----
-
-### ✨ Quote of the Day App
-An inspiring mobile app that delivers motivational quotes daily.  
-🌐 **API:** Fetches quotes from a public API  
-❤️ **Favorites:** Save quotes you love  
-💡 **Design:** Minimalist and motivational  
-
-> A simple yet meaningful app built using **Flutter**.
-
----
-
-### ⏰ Alarm App
-A basic but effective mobile alarm application.  
-🔁 **Features:** One-time alarms  
-🎵 **Customization:** Custom ringtones  
-😴 **Extra:** Snooze support  
-
-> Perfect for quick reminders and simple scheduling.
-
----
-
-### 🌐 Personal Portfolio Website
-My personal website showcasing my professional journey and projects.  
-📄 **Sections:** About Me, Projects, Resume, Contact  
-🔗 **Live Demo:** https://naba-portfolio-4bb5b4.netlify.app/  
-💻 **Tech Stack:** HTML, CSS  
-
-> Clean, elegant, and responsive — a simple way to present my work.
-
----
-
-### 📂 CodSoft Internship Projects
-A collection of projects completed during my internship at **CodSoft**, focusing on real-world app development using Flutter.
-
-🛠️ **Focus:** Practical problem-solving  
-🎯 **Learning:** Strengthened Flutter and state management skills  
-
----
-
-### 📄 itbali (Client Project)
-A team-based Flutter project developed for a client in **Qatar**.
-
-📎 **Purpose:** Helps users upload and print their documents  
-🛠️ **My Role:** UI design and functionality development  
-🤝 **Experience:** Real-world teamwork and client communication  
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **To-Do List Application** | Task management with priority levels and due dates | Dart | [Repo](https://github.com/NabaHassan/To-Do-List) |
+| **CodSoft** | To-Do-List Application from internship | Dart | [Repo](https://github.com/NabaHassan/CodSoft) |
+| **Quote of the Day App** | Daily motivational quotes with favorites | Dart | [Repo](https://github.com/NabaHassan/QuoteOfTheDayApp) |
+| **Alarm App** | Mobile alarm with custom ringtones and snooze | Dart | [Repo](https://github.com/NabaHassan/AlarmApp) |
+| **Simple Chat App** | Basic chat application | Dart | [Repo](https://github.com/NabaHassan/simpleChatApp) |
+| **Attendance App** | Attendance tracking system | Dart | [Repo](https://github.com/NabaHassan/attendance) |
+| **itbali (Client Project)** | Document upload and printing app for Qatar client | Dart | [Repo](https://github.com/NabaHassan/itbali) |
+| **Chat Application** | C++ based chat system | C++ | [Repo](https://github.com/NabaHassan/chatapp) |
 
 ---
 
 ## 🤖 AI & Machine Learning Projects
 
-### 💬 Dental Medicine Chatbot
-A **Retrieval-Augmented Generation (RAG)** chatbot for answering medicine-related questions using structured data.
+### Large Language Models & RAG Systems
 
-🧠 **Tech Stack:** LangChain, LangGraph, FAISS, SQLite  
-🔍 **Embeddings:** SentenceTransformer  
-💬 **Functionality:**
-- Retrieves medicine info from SQLite  
-- Generates contextual, LLM-powered responses  
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **Denti** | Offline AI dental medication assistant | Python | [Repo](https://github.com/NabaHassan/Denti) |
+| **Medical Chatbot** | RAG-based chatbot for medicine-related questions | HTML | [Repo](https://github.com/NabaHassan/med-chatbot) |
+| **RAG Software Books** | Retrieval-Augmented Generation system for software books | Jupyter | [Repo](https://github.com/NabaHassan/RAG_Software_Books) |
 
-> A practical blend of database querying and generative AI.
+### Machine Learning & Data Analysis
 
----
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **CSV Data Analyzer** | LangGraph + FAISS-powered CSV analysis | Python | [Repo](https://github.com/NabaHassan/CSVDataAnalyzer) |
+| **CSV LEAD Gen** | Business lead finder from Google Maps with AI email drafting | Python | [Repo](https://github.com/NabaHassan/CSV-LEAD-Gen) |
+| **Spam Email Detection** | NLP-based spam classification with Streamlit UI | Jupyter | [Repo](https://github.com/NabaHassan/spam_checker_classification) |
+| **Anomaly Detection** | Machine learning anomaly detection system | Jupyter | [Repo](https://github.com/NabaHassan/AnomalyDetection-) |
+| **Collaborative Filtering** | Recommender systems using collaborative filtering | Jupyter | [Repo](https://github.com/NabaHassan/Collaborative-Filtering-Recommender-Systems) |
+| **Model Evaluation** | Regression, Classification, and Neural Networks evaluation | Jupyter | [Repo](https://github.com/NabaHassan/Model-Evaluation-and-Selection-for-Regression-Classification-and-Neural-Networks) |
+| **Student Performance Predictor** | Linear Regression from scratch | Jupyter | [Repo](https://github.com/NabaHassan/Student_Performance_Predictor_-Linear_Regression_From_Scratch-) |
 
-### 🧠 Smart Label System for Supermarkets *(Graduation Project)*
-An **IoT + AI-powered system** that automates product price updates using electronic shelf labels.
+### Deep Learning & Reinforcement Learning
 
-🔌 **Hardware:** ESP32-based microcontroller  
-🌐 **Features:** Real-time price syncing between mobile app and shelf label  
-📊 **Software Analysis:** UFP → KLOC conversion  
-💡 **Focus:** AI-driven automation and embedded systems  
-
----
-
-### 🧾 Intelligent SQLite Chat System
-A local **AI chatbot** capable of answering natural language queries directly from SQL databases.
-
-🧩 **Tools:** FAISS, LangGraph, LLaMA 3  
-💬 **Interface:** WebSocket frontend (HTML + JS)  
-⚙️ **Functionality:** Semantic search + SQL query generation  
-
-> Created to explore **agentic AI** and advanced RAG workflows.
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **Image Classification CNN** | CNN-based image classification | Jupyter | [Repo](https://github.com/NabaHassan/imageClassificationCNN) |
+| **Stock Market Data RL Training** | Q-Learning agent for stock market trading | Jupyter | [Repo](https://github.com/NabaHassan/StockMarketDataRLTrain) |
 
 ---
 
-### 🧪 Deep Learning Practice Projects
-Practical implementations of deep learning concepts using **TensorFlow** and **PyTorch**.
+## 🌐 Web & Other Projects
 
-🖼️ **CNNs:** Image classification (MNIST, CIFAR-10)  
-📈 **RNNs/LSTMs:** Sequence and time-series modeling  
-🌍 **Transformers:** Text understanding and generation  
-⚙️ **Fine-Tuning:** LoRA & QLoRA experiments  
-
-> Strengthened understanding of neural architectures and optimization.
-
----
-
-### 📊 Stock Market Data RL Training *(Q-Learning)*
-A **reinforcement learning project** focused on training agents to make decisions based on stock market data.
-
-🧠 **Algorithm:** Q-Learning  
-📈 **Environment:** Custom stock market simulation  
-🧪 **Features:**
-- Discrete state-action space  
-- Reward-based learning  
-- Epsilon-greedy exploration  
-- Training visualization and performance tracking  
-
-📂 **Files Included:**
-- `StockMarketDataTrain.ipynb`  
-- Training and evaluation logic  
-
-> Focused on understanding sequential decision-making and reward optimization.
-
----
-
-### 📧 Spam Email Detection (Machine Learning)
-A complete NLP + ML solution to classify emails as **Spam** or **Ham**.
-
-🛠 **Tech Stack:** Python, Scikit-Learn, NLTK, Streamlit  
-📊 **Pipeline:**
-- Text cleaning & preprocessing  
-- TF-IDF vectorization  
-- Model comparison (Naive Bayes, Logistic Regression, SVM)  
-- Metrics: Accuracy, Precision, Recall, F1 Score  
-- Streamlit UI for real-time predictions  
-
-📁 **Project Structure Includes:**
-- `app.py` – Web app interface  
-- `model_train.py` – Model training logic  
-- `spam_model.pkl` – Trained model  
-- `tfidf_vectorizer.pkl` – Feature extractor  
-
----
-
-### 🧪 CSV Data Analysis with LangGraph + FAISS
-A smart CSV analysis pipeline capable of semantic search, intelligent data extraction, and natural-language responses.
-
-🛠 **Tech Stack:** LangGraph, FAISS, Python, Mistral-7B  
-
-📌 **Features:**
-- Automatic CSV validation & preprocessing  
-- Multi-format text representations  
-- FAISS vector indexing  
-- Context-based retrieval  
-- Local LLM-powered answers  
-- Error-resilient workflows  
-
-**Pipeline Nodes:**
-- uploadCsvFile  
-- validateCsvData  
-- buildFaissIndex  
-- generateFaissEmbedding  
-- retrieveRelevantContext  
-- passInfoThroughLlm  
-- formatLlmResponse  
-
----
-
-### 💬 Dental Medicine Chatbot — *Denti*
-A fully offline, AI-powered **dental medication assistant**.
-
-🧠 **Tech Stack:** Python, LangChain, SQLite, GPT4All, LLaMA 3  
-🔍 **Core Features:**
-- Intent detection  
-- SQL query generation  
-- Retrieval-Augmented Generation (RAG)  
-- Error handling & caching  
-- Local LLM inference  
+| Project | Description | Language | Link |
+|---------|-------------|----------|------|
+| **Personal Portfolio Website** | Professional portfolio showcasing projects and skills | CSS | [Repo](https://github.com/NabaHassan/NabaPortfolio.github.io) |
+| **473 Grad Project - Gov** | Government sector graduation project | CSS | [Repo](https://github.com/NabaHassan/473GradProjectGov) |
+| **473 Grad Project - Retailer** | Retail sector graduation project | Handlebars | [Repo](https://github.com/NabaHassan/473GradProjectRetailer) |
+| **Maple Jet Printer** | Printer integration project | - | [Repo](https://github.com/NabaHassan/maple-jetPrinter-) |
 
 ---
 
 ## 🧰 Technical Skills
 
 ### 💻 Languages
-- Python  
-- SQL  
-- HTML  
-- CSS  
+- **Python** – AI/ML, Data Analysis, Web Scraping
+- **Dart** – Flutter Mobile Development
+- **SQL** – Database Design & Queries
+- **HTML/CSS** – Web Development
+- **C++** – System Programming
 
-### 🔍 AI / Machine Learning
-- LangChain  
-- LangGraph  
-- FAISS  
-- Hugging Face  
-- SentenceTransformers  
+### 🤖 AI / Machine Learning
+- **LangChain** – LLM Orchestration
+- **LangGraph** – Agentic AI Workflows
+- **FAISS** – Vector Search & Similarity
+- **Hugging Face** – Pre-trained Models
+- **SentenceTransformers** – Embeddings
+- **Ollama** – Local LLM Deployment
+- **GPT4All** – Lightweight LLM Inference
 
-### 🧠 Frameworks
-- PyTorch  
-- TensorFlow  
+### 🧠 Deep Learning Frameworks
+- **PyTorch** – Modern Deep Learning
+- **TensorFlow** – Neural Networks & Production Models
+- **scikit-learn** – Classical ML
 
-### 🗄️ Databases
-- SQLite  
-- Firebase *(not currently used in apps)*  
+### 🗄️ Databases & Storage
+- **SQLite** – Lightweight Databases
+- **Firebase** – Real-time Database
+- **FAISS** – Vector Embeddings
 
-### 🌐 APIs
-- REST  
-- OpenAI API  
+### 🌐 APIs & Services
+- **REST APIs** – API Design & Integration
+- **OpenAI API** – GPT Integration
+- **Google Maps API** – Location Services
+- **WebSocket** – Real-time Communication
 
-### 🛠 Tools
-- Git  
-- GitHub  
-- Streamlit  
-- Ollama  
-- GPT4All  
+### 🛠️ Tools & Platforms
+- **Git/GitHub** – Version Control
+- **Streamlit** – Rapid App Development
+- **Jupyter Notebooks** – Data Science & Experimentation
+- **Flutter** – Cross-platform Mobile Development
 
 ---
 
@@ -235,6 +114,9 @@ nabahassan707@email.com
 
 🌍 **Portfolio:**  
 https://naba-portfolio-4bb5b4.netlify.app/
+
+📊 **GitHub Profile:**  
+https://github.com/NabaHassan
 
 ---
 
